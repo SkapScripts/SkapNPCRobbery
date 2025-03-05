@@ -1,6 +1,6 @@
 # SMDX-NPCROBBERY
-Welcome to a new script! SMDX-NPCRobbery!
-Discord: https://discord.gg/NKaDpHKkkH
+Welcome to a new script! SkapNPCRobbery!
+[Discord!](https://discord.gg/NKaDpHKkkH)
 
 
 # Features:
