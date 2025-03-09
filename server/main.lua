@@ -1,4 +1,4 @@
-local discordWebhook = "https://discord.com/api/webhooks/1346665137045639260/DqNjTw_fN2W2MW_fOMoMVPH4amRzmoth92n2ai4xi0jbLeUZxwce0uZf9aJcuonI4XF5"
+local discordWebhook = "YOUR_WEBHOOK_URL_HERE"
 local robberyCooldown = {}
 
 local function Notify(msg, type, time)
